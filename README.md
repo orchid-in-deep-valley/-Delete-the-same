@@ -1,2 +1,5 @@
 # Delete-the-same-file
-##  Delete the same file as reference on a floder
+## 我有一部mp3，把歌曲全部一大堆的放在一个文件夹
+## 经常性的把一个专辑的歌曲塞到MP3里
+## 然后不想听了，之删除那个专辑的歌曲很麻烦
+## 然后我就谢了这个
