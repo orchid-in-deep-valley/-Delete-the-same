@@ -37,8 +37,6 @@ public class Main
                        System.out.println(bd.files[j].getName()+" delete fail.");
                    }
                }
-               else
-            	   System.out.println(d.files[i].getName()+"------"+bd.files[j].getName());
            }
        }
     }
